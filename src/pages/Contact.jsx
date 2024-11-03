@@ -46,7 +46,9 @@ export default Connect
 
 // Styled components
 const Wrapper = styled.div`
-    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #f4e7de;
     width: 100%;
     padding: 30px 0;

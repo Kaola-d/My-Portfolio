@@ -172,7 +172,7 @@ const MyBio = styled.div`
 
 const CVButton = styled.a`
   padding: 8px 16px;
-  border-radius: 5px;
+  border-radius: 0 15px;
   border: 2px solid white;
   background-color: tomato;
   text-decoration: none;
@@ -193,7 +193,7 @@ const CVButton = styled.a`
 
 const CButton = styled.a`
   padding: 8px 16px;
-  border-radius: 5px;
+  border-radius: 15px 0;
   border: 1px solid tomato;
   background-color: white;
   color: tomato;
