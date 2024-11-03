@@ -72,7 +72,9 @@ export default About;
 
 const AboutMe = styled.div`
   max-width: 1280px;
-  margin: 0 auto;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
   background-color: ${({ darkMode }) => (darkMode ? '#333' : '#FFF8F3')};
   color: ${({ darkMode }) => (darkMode ? '#FFF' : '#333')};
   padding: 20px;
